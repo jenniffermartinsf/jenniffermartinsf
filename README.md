@@ -38,6 +38,9 @@ Working with React Native has also led me to develop a deeper interest in unders
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![React Hook Form](https://img.shields.io/badge/-ReactHookForm-333333?style=flat&logo=reacthookform)
 ![Zod](https://img.shields.io/badge/-Zod-333333?style=flat&logo=zod)
+![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
+![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=androidstudio)
 
 <div>
   <a href="https://github.com/jenniffermartinsf">
