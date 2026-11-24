@@ -24,7 +24,7 @@ I also work on the native Android layer (Gradle, Android Studio, Google Play rel
 
 | Project | Platform | What it shows |
 | --- | --- | --- |
-| **Colua** *(in development, private for now)* | Android · Kotlin | Multi-module app with Jetpack Compose, Material 3, Hilt, Room, Coroutines/Flow, type-safe Navigation Compose, version catalog, convention plugins, ktlint and detekt |
+| **Colua** *(in development · coming to Google Play)* | Android · Kotlin | Multi-module app with Jetpack Compose, Material 3, Hilt, Room, Coroutines/Flow, type-safe Navigation Compose, version catalog, convention plugins, ktlint and detekt |
 | [**Bryqo**](https://github.com/jenniffermartinsf/bryqo-app) | iOS · Swift | Complete learning app in SwiftUI: 187 tests, accessibility audits, dark mode, security review and CI/CD with Fastlane |
 
 ## 🛠 Tech stack
