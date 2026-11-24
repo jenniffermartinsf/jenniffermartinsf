@@ -21,26 +21,10 @@ Working with React Native has also led me to develop a deeper interest in unders
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
-![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=swift)
-![SwiftUI](https://img.shields.io/badge/-SwiftUI-333333?style=flat&logo=swift-ui)
-![UIKit](https://img.shields.io/badge/-UIKit-333333?style=flat&logo=uikit)
-![Xcode](https://img.shields.io/badge/-Xcode-333333?style=flat&logo=xcode)
-![TestingLibrary](https://img.shields.io/badge/-TestingLibrary-333333?style=flat&logo=testinglibrary)
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
-![PostHog](https://img.shields.io/badge/-PostHog-333333?style=flat&logo=posthog)
-![Expo](https://img.shields.io/badge/-Expo-333333?style=flat&logo=expo)
-![TanStack Query](https://img.shields.io/badge/-TanStackQuery-333333?style=flat&logo=reactquery)
-![Zustand](https://img.shields.io/badge/-Zustand-333333?style=flat&logo=zustand)
-![Sentry](https://img.shields.io/badge/-Sentry-333333?style=flat&logo=sentry)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![React Hook Form](https://img.shields.io/badge/-ReactHookForm-333333?style=flat&logo=reacthookform)
-![Zod](https://img.shields.io/badge/-Zod-333333?style=flat&logo=zod)
 ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=androidstudio)
+![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-333333?style=flat&logo=jetpackcompose)
 
 <div>
   <a href="https://github.com/jenniffermartinsf">
